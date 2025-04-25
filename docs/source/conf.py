@@ -3,6 +3,8 @@
 # -- Project information
 
 project = 'GraphGen'
+copyright = ''
+author = ''
 
 release = '20250422'
 version = '20250422'
