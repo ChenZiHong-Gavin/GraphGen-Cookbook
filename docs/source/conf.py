@@ -2,12 +2,10 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'GraphGen'
 
-release = '0.1'
-version = '0.1.0'
+release = '20250422'
+version = '20250422'
 
 # -- General configuration
 
@@ -17,6 +15,8 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
+    'recommonmark',
+    'sphinx_markdown_tables',
 ]
 
 intersphinx_mapping = {
