@@ -3,9 +3,9 @@
 ## 1. `qa_form`
 - **Purpose**: Defines the form of generated QAs.
 - **Options**: 
-    - `"atomic"`: Simple, single-node questions.  
-    - `"multi_hop"`: Multi-step reasoning questions.  
-    - `"open"`: Open-ended questions with no fixed answer.  
+    - `"atomic"`: Simple, single-node QAs.  
+    - `"multi_hop"`: Multi-step reasoning QAs.  
+    - `"aggregated"`: QAs that require analyzing and integrating multiple entities and relationships.
 - **Default**: `"multi_hop"`  
 
 ## 2. `expand_method`
