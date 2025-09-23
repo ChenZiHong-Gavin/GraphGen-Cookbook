@@ -1,6 +1,6 @@
 # Table of contents
 
-* [GraphGen简介](README.md)
+* [GraphGen 简介](README.md)
 * [Quick Start](quick_start.md)
 * [概念](concept.md)
 * [Parameters](parameters.md)
