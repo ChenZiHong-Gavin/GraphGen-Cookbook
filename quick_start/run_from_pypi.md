@@ -75,7 +75,7 @@ graphg --config_file your_path_for_config_file --output_dir cache
 
 下面是使用 GraphGen 生成数据的示例程序：
 
-```
+```python
 import argparse
 import time
 from pathlib import Path
