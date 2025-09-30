@@ -3,7 +3,7 @@
 ### 1 安装GraphGen
 
 ```
-pip install graphg
+pip install graphg==0.1.0.post20250930
 ```
 
 ### 2 准备配置文件
