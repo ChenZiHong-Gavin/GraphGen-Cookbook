@@ -3,6 +3,7 @@
 * [GraphGen 简介](README.md)
 * [快速开始](quick_start/README.md)
   * [从PyPI安装](quick_start/run_from_pypi.md)
+  * [从源码安装](quick_start/run_from_source.md)
 * [流程](progress/README.md)
   * [Step1 读取文件](progress/reader.md)
   * [Step2 分割文本](progress/splitter.md)
