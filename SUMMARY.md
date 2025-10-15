@@ -13,5 +13,5 @@
   * [Step5 问答生成](progress/generator.md)
 * [参数](parameters.md)
 * [数据准备](data-preparation.md)
+* [最佳实践](best-practice.md)
 * [附录](appendix.md)
-* [案例](user-case.md)

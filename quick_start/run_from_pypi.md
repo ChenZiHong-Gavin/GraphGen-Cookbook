@@ -69,7 +69,7 @@ graphg --config_file your_path_for_config_file --output_dir cache
 
 运行结果如下：
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 2.2 使用GraphGen构建生成程序
 
@@ -143,7 +143,7 @@ if __name__ == "__main__":
 
 生成结果如下：
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 4 生成数据示例
 
